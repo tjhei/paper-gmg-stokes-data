@@ -1,3 +1,6 @@
 [submodule "deal.II"]
 	path = deal.II
 	url = https://github.com/dealii/dealii
+[submodule "aspect"]
+	path = aspect
+	url = https://github.com/tjhei/aspect
