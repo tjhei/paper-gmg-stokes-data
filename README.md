@@ -4,7 +4,7 @@ This repository contains source code, parameter files, and additional data
 used in the computations of the paper:
 
 ```
-Thomas C. Clevenger, Timo Heister
+Thomas C. Clevenger and Timo Heister:
 Comparison Between Algebraic and Matrix-free Geometric Multigrid for
 a Stokes Problem on an Adaptive Mesh with Variable Viscosity
 submitted, 2019
@@ -24,7 +24,7 @@ This repository contains the following:
 
 ## Details about the computational setup
 
-Computations were run on [TACC's Frontera super computer](https://github.com/dealii/dealii).
+Computations were run on [TACC's Frontera supercomputer](https://github.com/dealii/dealii).
 
 We compiled a Wiki page with [information on how to install ASPECT on Frontera](https://github.com/geodynamics/aspect/wiki/Installation-on-Frontera).
 
