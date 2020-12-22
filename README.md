@@ -21,6 +21,7 @@ without it.
 This repository contains the following:
 1. ``deal.II`` -- Snapshot of the [deal.II](https://github.com/dealii/dealii) master branch from Feb 28, 2020 (before deal.II v9.2.0 with many important performance and 64bit fixes)
 2. ``aspect`` -- Experimental branch of [ASPECT](https://github.com/geodynamics/aspect), see https://github.com/tjhei/aspect/tree/gmg-stokes-paper (This branch contains additional timing blocks and other experimental changes)
+3. ``data-files`` -- These are the raw results files from our computations used to create the figures in the paper.
 
 ## Details about the computational setup
 
